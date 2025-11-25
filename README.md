@@ -1,4 +1,4 @@
-# Petrova Bakery - API RESTful
+# Petrova Bakery - API RESTful🥐
 ## Objetivo
 
 - Criar uma API RESTful completa do zero utilizando Node.js e Express para a Petrova Bakery.
