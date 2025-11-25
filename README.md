@@ -3,7 +3,7 @@
 
 - Criar uma API RESTful completa do zero utilizando Node.js e Express para a Petrova Bakery.
 
-## Requisitos do Projeto
+## Requisitos do Projeto📝
 
 - Inicialização do projeto com npm init
 
@@ -13,7 +13,7 @@
 
 - Organização de pastas
 
-# Passos para Implementação
+# Passos para Implementação💻
 ## Passo 01 e 02
 
 Criar uma pasta na área de trabalho.
